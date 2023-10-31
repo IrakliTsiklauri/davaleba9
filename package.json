@@ -1,0 +1,14 @@
+{
+  "name": "davaleba9",
+  "version": "1.0.0",
+  "description": "this is first react project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "irakli",
+  "license": "ISC",
+  "dependencies": {
+    "is-email": "^1.0.2"
+  }
+}
